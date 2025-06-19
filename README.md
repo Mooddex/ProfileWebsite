@@ -13,7 +13,7 @@ A personal profile website to showcase my work, projects, and skills as a fronte
 The site is a simple, clean, and fully responsive profile page. It includes sections like an intro, portfolio, and contact form. I designed it with accessibility and user experience in mind. Every element is carefully placed to help visitors get a quick overview of my capabilities and previous work.
 
 ## Optimizations
-*(optional)*
+
 
 - Images are optimized for faster load times.
 - Clean CSS structure for easier future edits.
