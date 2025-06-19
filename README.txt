@@ -1,30 +1,31 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Profile Website 🌐
 
+A personal profile website to showcase my work, projects, and skills as a frontend developer. Built to reflect clean design and clear structure, this project serves as a professional online presence and portfolio.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+**Link to project:** https://mahmoud-salama.netlify.app/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+![Profile Website Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179350/2025-06-17-161257-mahmoud-salama-screenclip_tgtpl7.jpg)
 
-(* = not included)
+## How It's Made:
 
-AJ
-aj@lkn.io | @ajlkn
+**Tech used:** HTML, CSS, JavaScript
 
+The site is a simple, clean, and fully responsive profile page. It includes sections like an intro, portfolio, and contact form. I designed it with accessibility and user experience in mind. Every element is carefully placed to help visitors get a quick overview of my capabilities and previous work.
 
-Credits:
+## Optimizations
+*(optional)*
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- Images are optimized for faster load times.
+- Clean CSS structure for easier future edits.
+- Layout built mobile-first using Flexbox and media queries.
+- Considered accessibility by using semantic HTML elements.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Lessons Learned:
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This project gave me a better understanding of layout structuring, accessibility, and writing semantic markup. I also got more comfortable creating clean, maintainable code and planning the content flow of a personal website — a key tool for career development.
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Beautello Salon:** https://github.com/Mooddex/Beautello-Salon  
+**Timeline Page:** https://github.com/Mooddex/timeline-page  
